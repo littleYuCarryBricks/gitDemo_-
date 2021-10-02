@@ -7,6 +7,7 @@ public class gitDemo_1 {
         int c = 1;
         int d = 3;
         int e = 1;
+        int q =0;
         System.out.println("hello");
 
     }
